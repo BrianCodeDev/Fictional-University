@@ -4,3 +4,7 @@ Author: Brian Kelley
 Version: 1.0.0
 */
 
+.site-footer {
+    padding: 2rem 0 3.5rem 0 !important;
+    background-image: linear-gradient(#ffffff00, #ececec00) !important;
+}
